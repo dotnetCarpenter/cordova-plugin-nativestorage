@@ -1,17 +1,7 @@
 # Cordova plugin NativeStorage
 
-[![Build Status](https://travis-ci.org/TheCocoaProject/cordova-plugin-nativestorage.svg?branch=master)](https://travis-ci.org/TheCocoaProject/cordova-plugin-nativestorage) [![npm version](https://badge.fury.io/js/cordova-plugin-nativestorage.svg)](https://badge.fury.io/js/cordova-plugin-nativestorage)
+[![Build Status](https://travis-ci.org/dotnetCarpenter/cordova-plugin-nativestorage.svg?branch=master)](https://travis-ci.org/dotnetCarpenter/cordova-plugin-nativestorage) [![npm version](https://badge.fury.io/js/cordova-plugin-nativestorage.svg)](https://badge.fury.io/js/cordova-plugin-nativestorage)
 
-[![NPM](https://nodei.co/npm/cordova-plugin-nativestorage.png?downloads=true&downloadRank=true)](https://nodei.co/npm/cordova-plugin-nativestorage/)
-
-Join the chat for questions and updates [![Join the chat at https://gitter.im/TheCocoaProject/cordova-plugin-nativestorage](https://badges.gitter.im/TheCocoaProject/cordova-plugin-nativestorage.svg)](https://gitter.im/TheCocoaProject/cordova-plugin-nativestorage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-***
-NEW: Windows and OS X is supported!
-UPDATE: The Plugin can now also be found at the [Telerik Plugin Market](http://plugins.telerik.com/cordova/plugin/nativestorage).
-
-Documentation about the API prior to v2 can be found at the [wiki](https://github.com/TheCocoaProject/cordova-plugin-nativestorage/wiki/Usage-API-(prior-to-v2.0.0))
-***
 
 The plugin was created and developed by [Gilles Callebaut](https://be.linkedin.com/in/gilles-callebaut-46a751104), in the scope of an [IWT/VlAIO](http://www.vlaio.be/english) Tetra project [CrossMoS](https://www.msec.be/crossmos/) which assesses Mobile Cross-Platform Tools. This wouldn't be possible without the contributions of [Alok Rajiv](https://github.com/alokrajiv), our Cordova and JavaScript guru.
 

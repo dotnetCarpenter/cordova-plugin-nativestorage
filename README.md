@@ -203,7 +203,7 @@ A demo application can be found at `cordova-plugin-nativestorage/examples/demo`.
 #### Installation
 * Cloning the repo to a local dir
 ```sh
-git clone https://github.com/GillesC/cordova-plugin-nativestorage.git
+git clone https://github.com/dotnetCarpenter/cordova-plugin-nativestorage.git
 ```
 * Navigating to the demo dir
 ```sh
@@ -223,7 +223,7 @@ cordova plugin add cordova-plugin-nativestorage
 * For testing the plugin
 ```sh
 cordova plugin add http://git-wip-us.apache.org/repos/asf/cordova-plugin-test-framework.git
-cordova plugin add https://github.com/TheCocoaProject/cordova-plugin-nativestorage.git#:/tests
+cordova plugin add https://github.com/dotnetCarpenter/cordova-plugin-nativestorage.git#:/tests
 ```
 * Run or emulate the demo application
 ```sh
